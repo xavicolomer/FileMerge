@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Application-Name: FileMerge
+Sealed: true
+Main-Class: FileMerge
+Codebase: xavicolomer.com
+Class-Path: FileMerge.jar
